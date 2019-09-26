@@ -48,6 +48,7 @@ x++;
 stck.push_back(y);
 
 }
+
 while(x<k)
 
 {
